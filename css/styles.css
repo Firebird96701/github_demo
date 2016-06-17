@@ -1,0 +1,19 @@
+	body {
+		background-color: blue;
+
+		}
+
+	h1 {
+		color: black;
+	}
+
+	div.shape{
+		background-color: green;
+		width: 100px;
+		height: 100px;
+		margin: 10px;
+
+	}
+	div#circle(
+		border-radius: 100%:
+		)
